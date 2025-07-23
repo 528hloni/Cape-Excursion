@@ -4,10 +4,10 @@ This is a project I built in high school using Delphi (Object Pascal). The appli
 
 ##  Features
 The program allows users to:
--View all learners and their assigned activities
--Replace an existing activity with a new one for all learners
--Remove the old activity from the database
--Update the interface automatically after changes
+- View all learners and their assigned activities
+- Replace an existing activity with a new one for all learners
+- Remove the old activity from the database
+- Update the interface automatically after changes
 
 ## Technologies Used
 Delphi (Object Pascal)
